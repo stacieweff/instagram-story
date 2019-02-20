@@ -1,3 +1,5 @@
+Follows along with this article - https://levelup.gitconnected.com/building-the-instagram-story-auto-play-ux-in-vue-347670e979ba
+
 # story-test
 
 ## Project setup
